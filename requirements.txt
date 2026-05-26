@@ -1,0 +1,15 @@
+# Core Framework
+Django>=5.0.0
+
+# Database Driver for PostgreSQL
+psycopg2-binary>=2.9.9
+
+# Data Science and Machine Learning Stack
+numpy>=1.26.0
+pandas>=2.1.0
+scikit-learn>=1.3.0
+joblib>=1.3.2
+
+# Visualization (for optional local analysis/plotting)
+matplotlib>=3.8.0
+seaborn>=0.13.0

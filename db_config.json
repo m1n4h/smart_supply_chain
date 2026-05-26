@@ -1,0 +1,7 @@
+{
+    "POSTGRES_DB": "smart_supply_db",
+    "POSTGRES_USER": "postgres",
+    "POSTGRES_PASSWORD": "amygirly",
+    "POSTGRES_HOST": "localhost",
+    "POSTGRES_PORT": "5432"
+}

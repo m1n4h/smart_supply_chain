@@ -1,0 +1,36 @@
+# --- Python/Django ---
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# --- Django Specific ---
+db.sqlite3
+db.sqlite3-journal
+media/
+*.log
+local_settings.py
+
+# --- Machine Learning Artifacts ---
+# Do not track large trained model files in Git
+*.pkl
+*.joblib
+*.h5
+*.model
+models/checkpoints/
+
+# --- Environment & Secrets ---
+.env
+.pytest_cache/
+.coverage
+.DS_Store
+
+# --- IDEs ---
+.vscode/
+.idea/
