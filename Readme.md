@@ -39,6 +39,11 @@ Scenario B (Peak Holiday Surge): Go to this URL to check your stock risk during 
 http://127.0.0.1:8000/?weather=0&traffic=0&holiday=1
 
 
+
+
+so what the optimized in staock 
+http://127.0.0.1:8000/?weather=1&holiday=0?
+
 How the Random Forest Model Makes Decisions
 To understand how you are controlling it, here is what the model does when you change those numbers:
 
